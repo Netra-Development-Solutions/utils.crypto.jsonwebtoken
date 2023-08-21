@@ -1,0 +1,19 @@
+{
+  "name": "wealth.watch.utils.crypto",
+  "version": "1.0.0",
+  "description": "A Node.js utility for strong cryptography, offering AES-256 encryption, HMAC verification, and secure random number generation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Naman Khater",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^2.0.15"
+  }
+}
