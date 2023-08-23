@@ -5,7 +5,7 @@ pipeline {
         stage("Code") {
             steps {
                 echo "Cloning the code from GitHub"
-                git branch: 'DEVELOPMENT', url: 'https://github.com/Netra-Development-Solutions/utils.crypto.jsonwebtoken'
+                git branch: 'RELEASE', url: 'https://github.com/Netra-Development-Solutions/utils.crypto.jsonwebtoken'
             }
         }
         stage("Install Dependencies") {
