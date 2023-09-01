@@ -1,4 +1,5 @@
 module.exports = {
     sign: require('./sign'),
-    decode: require('./decode')
+    decode: require('./decode'),
+    verify: require('./verify')
 }

@@ -1,6 +1,6 @@
 {
   "name": "@netra-development-solutions/utils.crypto.jsonwebtoken",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A Node.js utility for strong cryptography, offering AES-256 encryption, HMAC verification, and secure random number generation.",
   "main": "index.js",
   "scripts": {
